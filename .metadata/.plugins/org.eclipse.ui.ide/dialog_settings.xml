@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\usuario.207\Downloads\Eclipse\ServiceAcademic"/>
+			<item value="C:\Users\usuario.207\Downloads\Eclipse\PersistenceAcdemic"/>
+			<item value="C:\Users\usuario.207\Downloads\Eclipse\EntityAcademic"/>
+			<item value="C:\Users\usuario.207\Downloads\Eclipse\DTOAcademic"/>
+			<item value="C:\Users\usuario.207\Downloads\Eclipse\DomainAcademic"/>
+			<item value="C:\Users\usuario.207\Downloads\Eclipse\AcademicPersistence"/>
+			<item value="C:\Users\usuario.207\Downloads\Eclipse\APIAcademic"/>
+		</list>
+	</section>
+</section>
